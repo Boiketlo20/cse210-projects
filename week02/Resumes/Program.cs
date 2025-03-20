@@ -1,10 +1,14 @@
 using System;
+<<<<<<< HEAD
 using Microsoft.VisualBasic;
+=======
+>>>>>>> c934f41ce3608ca76b6376432a905c5d626781eb
 
 class Program
 {
     static void Main(string[] args)
     {
+<<<<<<< HEAD
         Job job1 = new Job();
         job1._jobTitle = "Software Engineer";
         job1._company = "Microsoft";
@@ -29,5 +33,8 @@ class Program
         // string myresume = resumes._jobs[0]._jobTitle;
         // Console.WriteLine(myresume);
         resumes.DisplayList();
+=======
+        Console.WriteLine("Hello World! This is the Resumes Project.");
+>>>>>>> c934f41ce3608ca76b6376432a905c5d626781eb
     }
 }
