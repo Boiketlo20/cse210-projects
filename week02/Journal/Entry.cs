@@ -8,9 +8,9 @@ public class Entry
 
     public void Display()
     {
-        DateTime theCurrentTime = DateTime.Now;
-        string dateText = theCurrentTime.ToShortDateString();
-        Console.WriteLine($"{dateText} - Prompt: {_promptText}, {_entryText}");
+        Console.WriteLine($"Date: {_date} - Prompt: {_promptText}");
+        Console.WriteLine($"Response: {_entryText}");
+        Console.WriteLine();
     }
 
     
