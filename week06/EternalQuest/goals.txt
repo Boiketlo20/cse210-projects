@@ -1,0 +1,4 @@
+Score:0
+SimpleGoal:Give a lesson in YSA,I want to teach a lesson in YSA,10,False
+EternalGoal:Read book of mormon daily,I want to consistently read the Book of Mormon everyday,100
+ChecklistGoal:Visit other branches,I want to start visting different branches on sundays,50,0,3,10
